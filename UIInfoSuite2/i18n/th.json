@@ -19,7 +19,7 @@
   "SnowNextDay": "พรุ่งนี้จะมีหิมะตก",
   "DaysUntilToolIsUpgraded": "{0} วัน จะอัพเกรด {1} เสร็จสิ้น",
   "ToolIsFinishedBeingUpgraded": "{0} เสร็จเรียบร้อย!",
-  "NpcBirthday": "วันเกิดของ {0}",
+  "NpcBirthday": "วันเกิดของ{0}",
   "RobinBuildingStatus": "โรบินจะสร้างสิ่งปลูกสร้างใหม่ของคุณให้เสร็จใน {0} วัน",
   //Display icons - Luck
   "DailyLuckValue": "โชคประจำวันของคุณคือ {0}",
