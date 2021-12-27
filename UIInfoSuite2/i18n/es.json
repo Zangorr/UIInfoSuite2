@@ -23,10 +23,6 @@
   "RobinBuildingStatus": "Robin terminará tu nuevo edificio en {0} día(s)",
   //Display icons - Luck
   "DailyLuckValue": "Tu suerte diaria es {0}",
-  "FeelingLucky": "¡Tienes suerte!",
-  "LuckyButNotTooLucky": "Te sientes con suerte... aunque no demasiada",
-  "NotFeelingLuckyAtAll": "No te sientes afortunado en absoluto...",
-  "MaybeStayHome": "Tal vez deberías quedarte en casa hoy...",
   "LuckStatus1": "¡Tienes suerte!",
   "LuckStatus2": "Hoy me siento un poco afortunado",
   "LuckStatus3": "El día está en tus manos",
