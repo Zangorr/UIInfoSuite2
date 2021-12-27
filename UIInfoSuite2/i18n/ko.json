@@ -23,10 +23,6 @@
   "RobinBuildingStatus": "새 건물 완성까지 {0}일 남았습니다",
   //Display icons - Luck
   "DailyLuckValue": "오늘의 행운 수치: {0}",
-  "FeelingLucky": "운이 좋은 것 같습니다!!",
-  "LuckyButNotTooLucky": "운이 좋은 것 같지만... 아주 좋은 것은 아닙니다.",
-  "NotFeelingLuckyAtAll": "오늘은 운이 좋지 않은것 같습니다...",
-  "MaybeStayHome": "아마도 오늘은 집에 있어야 할 것 같습니다...",
   "LuckStatus1": "오늘은 운이 좋은 것 같다!",
   "LuckStatus2": "오늘은 운이 약간 좋은 것 같다!",
   "LuckStatus3": "오늘은 스스로 하기에 달려있다",
