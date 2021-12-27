@@ -23,10 +23,6 @@
   "RobinBuildingStatus": "Robin terminará sua construção em {0} dia(s)",
   //Display icons - Luck
   "DailyLuckValue": "Seu número da sorte é {0}",
-  "FeelingLucky": "Os espíritos estão muito felizes!",
-  "LuckyButNotTooLucky": "Os espíritos estão de bom humor",
-  "NotFeelingLuckyAtAll": "Os espíritos estão meio aborrecidos",
-  "MaybeStayHome": "Os espíritos estão muito aborrecidos",
   "LuckStatus1": "Os espíritos estão muito felizes!",
   "LuckStatus2": "Os espíritos estão de bom humor",
   "LuckStatus3": "Os espíritos estão neutros",
