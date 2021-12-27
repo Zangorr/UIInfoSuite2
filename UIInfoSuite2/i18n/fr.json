@@ -23,10 +23,6 @@
   "RobinBuildingStatus": "Robin will finish your new building in {0} day(s)", // TODO
   //Display icons - Luck
   "DailyLuckValue": "Your daily luck is {0}", // TODO
-  "FeelingLucky": "You're feelin' lucky!!", // TODO
-  "LuckyButNotTooLucky": "Feelin' lucky... but not too lucky", // TODO
-  "NotFeelingLuckyAtAll": "You're not feeling lucky at all today...", // TODO
-  "MaybeStayHome": "Maybe you should stay home today...", // TODO
   "LuckStatus1": "Tu te sens chanceux!",
   "LuckStatus2": "Tu te sens chanceux... mais pas trop", // TODO
   "LuckStatus3": "Tu te sens chanceux... mais pas trop", // TODO
