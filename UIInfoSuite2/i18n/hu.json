@@ -23,10 +23,6 @@
   "RobinBuildingStatus": "Robin be fogja fejezni az új épületedet {0} nap múlva",
   //Display icons - Luck
   "DailyLuckValue": "A mai szerencséd {0}",
-  "FeelingLucky": "You're feelin' lucky!!", // TODO
-  "LuckyButNotTooLucky": "Szerencsésnek érzed magad... de nem nagyon!",
-  "NotFeelingLuckyAtAll": "Egyáltalán nem érzed szerencsésnek magad!",
-  "MaybeStayHome": "Talán ma otthon kéne maradnod!",
   "LuckStatus1": "Szerencsésnek érzed magad!",
   "LuckStatus2": "Ma egy kicsit szerencsésnek érzem magam!",
   "LuckStatus3": "A nap a te kezedben van!",
